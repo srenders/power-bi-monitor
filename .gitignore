@@ -1,0 +1,12 @@
+CODE/EXPORT/LOG/
+CODE/EXPORT/LOG/navcommandresult.txt
+.vscode/launch.json
+.alpackages/*
+*.app
+*.json
+*.xlf
+aka links.docx
+Power BI Monitor/BlogPost.md
+Power BI Monitor/BlogPost_Installation.md
+BlogPost_Installation.md
+BlogPost.md
